@@ -49,6 +49,4 @@ None yet lol.
 ![](https://forthebadge.com/images/badges/powered-by-black-magic.svg)
 ![](http://ForTheBadge.com/images/badges/built-by-developers.svg)
 ![](https://forthebadge.com/images/badges/uses-brains.svg)
----
-![](https://komarev.com/ghpvc/?username=CodeWhiteWeb&label=Visitors+Count&color=brightgreen)
-</div>
+
