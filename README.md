@@ -17,7 +17,7 @@
   👯 I’m looking to collaborate on my webpage
 
   📫 How to reach me:  
-SKGT#2635 On discord
+device1337. On discord
 
 ⚡ Fun fact: 7 out of 10 consumers find a company via the blog
 
