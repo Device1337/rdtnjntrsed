@@ -1,5 +1,5 @@
 <h3 align="center">
-  Welcome to rdtnjntrsed's profile!
+  Welcome to Device's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <p align="center">
@@ -10,7 +10,7 @@
 <div align="center">
   
 # 💫About Me :
-🔭 I’m currently working on my github page : https://github.com/rdtnjntrsed
+🔭 I’m currently working on my github page : https://github.com/Device1337
   
 🌱 I’m currently learning : More C++
 
